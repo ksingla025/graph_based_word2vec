@@ -1,5 +1,7 @@
 # graph_based_word2vec
 
+Set appropriate path in code/path.py
+
 ####install FAST_ALIGN
 
 https://github.com/clab/fast_align
