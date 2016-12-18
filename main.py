@@ -77,7 +77,7 @@ def build_dataset(words, vocabulary_size=200000):
 def generate_graph(dictionary):
 	
 	createdic = CreateDictionary()
-#	createdic.get_alignments()
+	createdic.get_alignments()
 	createdic.alignments_to_dic()
 
 	graph = DictionaryGraph()
