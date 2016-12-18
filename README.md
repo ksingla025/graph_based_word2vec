@@ -1,6 +1,6 @@
 # graph_based_word2vec
 
-Set appropriate path in code/path.py
+Set appropriate paths in code/path.py
 
 ####install FAST_ALIGN
 
